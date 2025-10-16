@@ -15,4 +15,5 @@ logger.info("Hello world!")
 ```
 
 ## About
-This 
+This library was build to simplify Python's built-in logging configuration.
+It's minima, dependency-free, and focuses on usability for beginners.
